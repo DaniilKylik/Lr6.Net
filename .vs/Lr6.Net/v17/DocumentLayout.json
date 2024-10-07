@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\interfaces\\iagevalidationservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:interfaces\\iagevalidationservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\services\\agevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:services\\agevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\views\\order\\orderproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:views\\order\\orderproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\views\\order\\orderquantity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:views\\order\\orderquantity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\views\\order\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:views\\order\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\views\\order\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:views\\order\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|c:\\users\\maksk\\source\\repos\\lr6.net\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFC17283-FD54-4C11-B7EB-CE1DA31BB167}|Lr6.Net.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:59:03.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgeValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Services\\AgeValidationService.cs",
+              "RelativeDocumentMoniker": "Services\\AgeValidationService.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Services\\AgeValidationService.cs",
+              "RelativeToolTip": "Services\\AgeValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:14:53.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:59:25.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:52:14.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:36:52.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAgeValidationService.cs.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Interfaces\\IAgeValidationService.cs.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAgeValidationService.cs.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Interfaces\\IAgeValidationService.cs.cs",
+              "RelativeToolTip": "Interfaces\\IAgeValidationService.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:36:09.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:00:33.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:58:25.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:15:24.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\Order\\OrderProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\OrderProducts.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\Order\\OrderProducts.cshtml",
+              "RelativeToolTip": "Views\\Order\\OrderProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T11:05:32.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderQuantity.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\Order\\OrderQuantity.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\OrderQuantity.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\Order\\OrderQuantity.cshtml",
+              "RelativeToolTip": "Views\\Order\\OrderQuantity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T11:05:23.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\Order\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Register.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\Order\\Register.cshtml",
+              "RelativeToolTip": "Views\\Order\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T11:05:13.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\Order\\Summary.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\Order\\Summary.cshtml",
+              "RelativeToolTip": "Views\\Order\\Summary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T11:05:39.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:45:42.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T11:49:43.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr6.Net\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T11:49:44.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

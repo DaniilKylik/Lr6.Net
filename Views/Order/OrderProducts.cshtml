@@ -1,0 +1,18 @@
+﻿@model List<Product>
+
+<h2>Введіть інформацію про товари</h2>
+<form asp-action="OrderProducts" method="post">
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        <div>
+            <label>Назва товару:</label>
+            <input asp-for="@Model[i].ProductName" />
+        </div>
+        <div>
+            <label>Кількість:</label>
+            <input asp-for="@Model[i].Quantity" type="number" />
+        </div>
+    }
+    <button type="submit">Підтвердити</button>
+</form>
+
