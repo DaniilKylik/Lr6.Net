@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Lr6.Net.Models;
-using Lr6.Net;
+using Lr6.Net.Services;
 
 namespace Lr6.Net.Controllers
 {
